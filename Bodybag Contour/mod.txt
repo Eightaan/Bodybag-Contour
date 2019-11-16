@@ -2,7 +2,7 @@
 	"blt_version" : 2,
 	"name" : "Bodybag Contour",
 	"description" : "Makes the contour of bodybags blue.",
-	"author" : "",
+	"author" : "TldQ",
 	"image" : "icon.png",
 	"contact" : "",
 	"hooks" : [
